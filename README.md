@@ -6,5 +6,5 @@ Here, you can find all my homework that I've done during my studies.
 - [Command Line Git](https://github.com/julemonade/Command-Line-Git) - here you can find list of tasks and commands that were used to perform them using command line.  
 - [Git](https://github.com/julemonade/Git) - here you can find list of tasks and commands that were used to perform them using command line. 
 - [Postman](https://github.com/julemonade/Postman) - here you can find some collections I've made. Readme file contains information about documentation that was used to test API.  
-- [MySQL]() - here you can find list of tasks and commands that were used to perform them using MySQLWorkbench.  
+- [MySQL](https://github.com/julemonade/MySQL) - here you can find list of tasks and commands that were used to perform them using MySQLWorkbench.  
 - [Javascript](https://github.com/julemonade/Javascript) - here you can find list of tasks and commands that were used to perform them.  
